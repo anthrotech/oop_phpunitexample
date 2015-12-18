@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+ <table name="mo">
+  <column>msisdn</column>
+  <column>operatorid</column>
+  <column>shortcodeid</column>
+  <column>text</column>
+  <row>
+    <value>00001111</value>
+    <value>1</value>
+    <value>2</value>
+    <value>testing</value>
+  </row>
+ </table>
+</dataset>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <database name="samtt">
+        <table_data name="mo">
+            <row>
+                <field name="id">999999</field>
+                <field name="msisdn">1111111</field>
+                <field name="operatorid">1</field>
+                <field name="shortcodeid">2</field>
+                <field name="text">test data</field>
+                <field name="auth_token">token</field>
+                <field name="created_at">2015-08-08 00:00:00</field>
+            </row>
+            <row>
+                <field name="id">10004498</field>
+                <field name="msisdn">1111111</field>
+                <field name="operatorid">1</field>
+                <field name="shortcodeid">2</field>
+                <field name="text">stop forum</field>
+                <field name="auth_token">0o0ajt_DeovC-z9oHjDJqCzB</field>
+                <field name="created_at">2015-12-14 18:14:11</field>
+            </row>
+        </table_data>
+    </database>
+</mysqldump>
